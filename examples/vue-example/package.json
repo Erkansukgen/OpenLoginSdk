@@ -13,7 +13,7 @@
     "@toruslabs/openlogin-jrpc": "file:../../packages/openlogin-jrpc/",
     "@toruslabs/openlogin-subkey": "file:../../packages/openlogin-subkey/",
     "@toruslabs/openlogin-utils": "file:../../packages/openlogin-utils/",
-    "@web3auth/ethereum-provider": "^5.1.1",
+    "@web3auth/ethereum-provider": "^9.4.5",
     "bs58": "^5.0.0",
     "core-js": "^3.30.0",
     "openlogin": "file:../../packages/wrapper/",
