@@ -15,7 +15,7 @@
     "@toruslabs/openlogin-utils": "file:../../packages/openlogin-utils/",
     "@web3auth/ethereum-provider": "^5.1.1",
     "bs58": "^5.0.0",
-    "core-js": "^3.30.0",
+    "core-js": "^3.39.0",
     "openlogin": "file:../../packages/wrapper/",
     "vue": "^3.2.47",
     "web3": "^1.9.0"
