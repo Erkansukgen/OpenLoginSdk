@@ -13,12 +13,12 @@
     "@toruslabs/openlogin-jrpc": "file:../../packages/openlogin-jrpc/",
     "@toruslabs/openlogin-subkey": "file:../../packages/openlogin-subkey/",
     "@toruslabs/openlogin-utils": "file:../../packages/openlogin-utils/",
-    "@web3auth/ethereum-provider": "^5.1.1",
+    "@web3auth/ethereum-provider": "^6.0.0",
     "bs58": "^5.0.0",
     "core-js": "^3.30.0",
     "openlogin": "file:../../packages/wrapper/",
     "vue": "^3.2.47",
-    "web3": "^1.9.0"
+    "web3": "^4.0.1"
   },
   "devDependencies": {
     "@types/bs58": "^4.0.1",
