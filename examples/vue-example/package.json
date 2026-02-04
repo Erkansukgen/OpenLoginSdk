@@ -18,7 +18,7 @@
     "core-js": "^3.30.0",
     "openlogin": "file:../../packages/wrapper/",
     "vue": "^3.2.47",
-    "web3": "^1.9.0"
+    "web3": "^4.0.1"
   },
   "devDependencies": {
     "@types/bs58": "^4.0.1",
